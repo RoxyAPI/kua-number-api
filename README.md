@@ -352,6 +352,8 @@ This repo ships an [AGENTS.md](AGENTS.md) execution playbook. Cursor, Claude Cod
 
 ## Other RoxyAPI samples
 
+[![Flying Stars API](https://img.shields.io/badge/Flying_Stars_API-RoxyAPI-14b8a6?style=flat-square)](https://github.com/RoxyAPI/feng-shui-flying-stars-api)
+[![Tai Sui API](https://img.shields.io/badge/Tai_Sui_API-RoxyAPI-14b8a6?style=flat-square)](https://github.com/RoxyAPI/tai-sui-api)
 [![Natal Chart API](https://img.shields.io/badge/Natal_Chart_API-RoxyAPI-14b8a6?style=flat-square)](https://github.com/RoxyAPI/natal-chart-api)
 [![Human Design API](https://img.shields.io/badge/Human_Design_API-RoxyAPI-14b8a6?style=flat-square)](https://github.com/RoxyAPI/human-design-api)
 [![Numerology API](https://img.shields.io/badge/Numerology_API-RoxyAPI-14b8a6?style=flat-square)](https://github.com/RoxyAPI/numerology-api)
