@@ -2,7 +2,7 @@
 
 # Kua Number API
 
-> Kua number API for feng shui directions. One birth date and sex returns the Kua, also called the Ming Gua, the east or west life group, the personal trigram, and all eight compass sectors classified best to worst. The Chinese year resolves at Li Chun, and the raw formula output ships alongside the final number. One key covers 14+ spiritual domains. MCP-first, ten languages including Simplified and Traditional Chinese.
+> Kua number API for feng shui directions. One birth date and sex returns the Kua, also called the Ming Gua, the east or west life group, the personal trigram, and all eight compass sectors classified best to worst. The Chinese year resolves at Li Chun, and the raw formula output ships alongside the final number. One key covers 18+ spiritual domains. MCP-first, ten languages including Simplified and Traditional Chinese.
 
 [![Get API Key](https://img.shields.io/badge/Get_API_Key-RoxyAPI-14b8a6?style=for-the-badge&logo=key&logoColor=white)](https://roxyapi.com/pricing)
 [![Try Live](https://img.shields.io/badge/Try_API_Live-Free_in_browser-22c55e?style=for-the-badge&logo=swagger&logoColor=white)](https://roxyapi.com/api-reference)
@@ -24,13 +24,13 @@ Three things are worth knowing before you wire this in.
 
 **Ten languages, including both Chinese scripts.** Add `?lang=zh-Hans` or `?lang=zh-Hant` and every star gets a `starNameLocalized` sibling, while `star`, `group`, `nature` and `direction` stay canonical English so your code can keep comparing against them.
 
-One subscription unlocks 14+ spiritual domains: Western astrology, Vedic astrology, Forecast, Human Design, Chinese astrology, Feng Shui, numerology, tarot, biorhythm, I Ching, crystals, dreams, angel numbers, and location.
+One subscription unlocks 18+ spiritual domains: Western astrology, Vedic astrology, Forecast, Human Design, Chinese astrology, Feng Shui, Mesoamerican astrology, Vastu, numerology, Kabbalah, tarot, biorhythm, Ayurveda, I Ching, crystals, dreams, angel numbers, and location.
 
 ## Why this API
 
 | Property | Value |
 |----------|-------|
-| Coverage | 14+ spiritual domains in one subscription |
+| Coverage | 18+ spiritual domains in one subscription |
 | Conventions | `yearBoundary` is a typed request parameter and the resolved value is echoed in `conventions` on every response, so a stored chart is reproducible years later |
 | Transparency | `rawKua` and `reassigned` ship beside `kua`, and `solarYear` plus `boundaryDate` show which Chinese year the formula used |
 | Languages | Ten, English plus tr, de, es, hi, pt, fr, ru, zh-Hans and zh-Hant |
